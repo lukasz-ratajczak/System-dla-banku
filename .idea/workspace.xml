@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="073f19fb-61a4-4646-be9d-27b71469e3da" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/company/Account.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/company/Premium.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Premium.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/company/Savings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Savings.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/company/Standard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Standard.java" afterDir="false" />
@@ -16,21 +18,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="90">
+              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/Standard.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+            <state relative-caret-position="150">
+              <caret line="10" column="43" lean-forward="true" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
               <folding>
+                <element signature="e#507#508#0" expanded="true" />
+                <element signature="e#557#558#0" expanded="true" />
                 <element signature="e#541#542#0" expanded="true" />
                 <element signature="e#578#579#0" expanded="true" />
                 <element signature="e#638#639#0" expanded="true" />
@@ -49,9 +53,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/Premium.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" selection-start-line="3" selection-end-line="42" selection-end-column="5" />
+            <state relative-caret-position="120">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
               <folding>
+                <element signature="e#505#506#0" expanded="true" />
+                <element signature="e#555#556#0" expanded="true" />
                 <element signature="e#230#231#0" expanded="true" />
                 <element signature="e#267#268#0" expanded="true" />
                 <element signature="e#327#328#0" expanded="true" />
@@ -68,11 +74,22 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Account.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="33" lean-forward="true" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/Savings.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+            <state relative-caret-position="105">
+              <caret line="7" column="5" lean-forward="true" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
               <folding>
+                <element signature="e#505#506#0" expanded="true" />
+                <element signature="e#555#556#0" expanded="true" />
                 <element signature="e#541#542#0" expanded="true" />
                 <element signature="e#578#579#0" expanded="true" />
                 <element signature="e#638#639#0" expanded="true" />
@@ -103,9 +120,11 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/src/com/company/Account.java" />
         <option value="$PROJECT_DIR$/src/com/company/Premium.java" />
         <option value="$PROJECT_DIR$/src/com/company/Savings.java" />
         <option value="$PROJECT_DIR$/src/com/company/Standard.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Main.java" />
       </list>
     </option>
   </component>
@@ -152,7 +171,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553266340372" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553267766525" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -193,7 +212,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1553265384642</updated>
-      <workItem from="1553265388287" duration="952000" />
+      <workItem from="1553265388287" duration="2378000" />
     </task>
     <task id="LOCAL-00001" summary="added types of account classes">
       <created>1553265819153</created>
@@ -202,15 +221,21 @@
       <option name="project" value="LOCAL" />
       <updated>1553265819153</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="added gets,sets, constructors and private/priv-final to accounts">
+      <created>1553266592037</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1553266592037</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="952000" />
+    <option name="totallyTimeSpent" value="2378000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1920" y="-2" width="1920" height="1082" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Designer" />
       <window_info id="Image Layers" />
@@ -223,7 +248,7 @@
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Version Control" weight="0.32948583" />
       <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -247,26 +272,72 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added types of account classes" />
-    <option name="LAST_COMMIT_MESSAGE" value="added types of account classes" />
+    <MESSAGE value="added gets,sets, constructors and private/priv-final to accounts" />
+    <option name="LAST_COMMIT_MESSAGE" value="added gets,sets, constructors and private/priv-final to accounts" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/System-dla-banku.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Savings.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="105">
+          <caret line="7" column="5" lean-forward="true" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+          <folding>
+            <element signature="e#505#506#0" expanded="true" />
+            <element signature="e#555#556#0" expanded="true" />
+            <element signature="e#541#542#0" expanded="true" />
+            <element signature="e#578#579#0" expanded="true" />
+            <element signature="e#638#639#0" expanded="true" />
+            <element signature="e#690#691#0" expanded="true" />
+            <element signature="e#728#729#0" expanded="true" />
+            <element signature="e#762#763#0" expanded="true" />
+            <element signature="e#794#795#0" expanded="true" />
+            <element signature="e#821#822#0" expanded="true" />
+            <element signature="e#861#862#0" expanded="true" />
+            <element signature="e#897#898#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Premium.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" selection-start-line="3" selection-end-line="42" selection-end-column="5" />
+        <state relative-caret-position="120">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
           <folding>
+            <element signature="e#505#506#0" expanded="true" />
+            <element signature="e#555#556#0" expanded="true" />
             <element signature="e#230#231#0" expanded="true" />
             <element signature="e#267#268#0" expanded="true" />
             <element signature="e#327#328#0" expanded="true" />
@@ -281,11 +352,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Savings.java">
+    <entry file="file://$PROJECT_DIR$/src/com/company/Standard.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+        <state relative-caret-position="150">
+          <caret line="10" column="43" lean-forward="true" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
           <folding>
+            <element signature="e#507#508#0" expanded="true" />
+            <element signature="e#557#558#0" expanded="true" />
             <element signature="e#541#542#0" expanded="true" />
             <element signature="e#578#579#0" expanded="true" />
             <element signature="e#638#639#0" expanded="true" />
@@ -300,22 +373,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Standard.java">
+    <entry file="file://$PROJECT_DIR$/src/com/company/Account.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
-          <folding>
-            <element signature="e#541#542#0" expanded="true" />
-            <element signature="e#578#579#0" expanded="true" />
-            <element signature="e#638#639#0" expanded="true" />
-            <element signature="e#690#691#0" expanded="true" />
-            <element signature="e#728#729#0" expanded="true" />
-            <element signature="e#762#763#0" expanded="true" />
-            <element signature="e#794#795#0" expanded="true" />
-            <element signature="e#821#822#0" expanded="true" />
-            <element signature="e#861#862#0" expanded="true" />
-            <element signature="e#897#898#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="75">
+          <caret line="5" column="33" lean-forward="true" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
