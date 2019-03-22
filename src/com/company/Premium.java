@@ -1,17 +1,10 @@
 package com.company;
 
-public class Premium {
-    private Double availableFunds;
-    private final String opepingDate;
-    private final Integer IBAN;
-    private String ownerFullName;
+public class Premium extends Account {
 
 
     public Premium(Double availableFunds, String opepingDate, Integer IBAN, String ownerFullName) {
-        this.availableFunds = availableFunds;
-        this.opepingDate = opepingDate;
-        this.IBAN = IBAN;
-        this.ownerFullName = ownerFullName;
+        super(availableFunds, opepingDate, IBAN, ownerFullName);
     }
 
 
