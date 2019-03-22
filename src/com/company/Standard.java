@@ -3,12 +3,8 @@ package com.company;
 public class Standard extends Account {
 
 
-    public Standard(Double availableFunds, String opepingDate, Integer IBAN, String ownerFullName) {
-        super(availableFunds, opepingDate, IBAN, ownerFullName);
-    }
-
-    public void setOwnerFullName(String ownerFullName) {
-        this.ownerFullName = ownerFullName;
+    public Standard(Double availableFunds, String opepingDate, Integer IBAN, Client client) {
+        super(availableFunds, opepingDate, IBAN, client);
     }
 
     public Double getAvailableFunds() {
@@ -27,7 +23,5 @@ public class Standard extends Account {
         return IBAN;
     }
 
-    public String getOwnerFullName() {
-        return ownerFullName;
-    }
+
 }

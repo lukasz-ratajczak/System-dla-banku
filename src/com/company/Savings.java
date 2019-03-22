@@ -3,13 +3,14 @@ package com.company;
 public class Savings extends Account {
 
 
-    public Savings(Double availableFunds, String opepingDate, Integer IBAN, String ownerFullName) {
-        super(availableFunds, opepingDate, IBAN, ownerFullName);
+    public Savings(Double availableFunds, String opepingDate, Integer IBAN, Client client) {
+        super(availableFunds, opepingDate, IBAN, client);
     }
 
-    public void setOwnerFullName(String ownerFullName) {
-        this.ownerFullName = ownerFullName;
-    }
+
+
+
+
 
     public Double getAvailableFunds() {
         return availableFunds;
@@ -27,9 +28,8 @@ public class Savings extends Account {
         return IBAN;
     }
 
-    public String getOwnerFullName() {
-        return ownerFullName;
-    }
+
+
 
 
 
